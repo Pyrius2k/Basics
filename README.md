@@ -20,7 +20,6 @@ This repository serves as a personal collection of my early programming projects
 * **`BasicCalculations.py`**: Handles basic arithmetic and geometric calculations.
 * **`Celsius2Fahrenheit.py`**: An interactive program to convert temperatures with error handling.
 * **`triangle.py`**: A script that draws an inverted asterisk triangle.
-* *Add your new script descriptions here...*
 
 ---
 
